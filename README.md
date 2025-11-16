@@ -51,7 +51,7 @@
 ## 🏆 Achievements
 - 🥇 Achieved **Gold-level Consultant** at **WorldQuant BRAIN** for top-performing alphas  
 - 🏅 Finalist at **Traya Health Case Study Competition**  
-- 📈 Finalist at **HP Power Lab** & **Muthoot Finclusion Challenge**  
+- 📈 Finalist at **HP Power Lab Case Study Competition**  
 - 🚀 Ranked **Top 17** nationally in Assessli Hackathon (AI Mock-Interview Bot)
 
 ---
