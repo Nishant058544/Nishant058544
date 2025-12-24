@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-yadav-339022217/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2201ph20_nishant@iitp.ac.in)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nishant058544)
-[![Resume](https://img.shields.io/badge/-Resume-4b8bbe?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1RkiksGnk1j0ur0zhUTLjwfwqTR61KNmV/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-4b8bbe?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1G6j_51IOICkZJNjxDFUNZFdS2X_eU2lx/view?usp=drive_link)
 
 </div>
 
@@ -52,7 +52,7 @@
 - 🥇 Achieved **Gold-level Consultant** at **WorldQuant BRAIN** for top-performing alphas  
 - 🏅 Finalist at **Traya Health Case Study Competition**  
 - 📈 Finalist at **HP Power Lab Case Study Competition**  
-- 🚀 Ranked **Top 17** nationally in Assessli Hackathon (AI Mock-Interview Bot)
+- 🚀 Ranked **Top 17** nationally in Assessli Hackathon (AI Mock-Interview Chat Bot)
 
 ---
 
